@@ -1,0 +1,50 @@
+_repo: Du-doute-a-la-foi_74749
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Coppée, François
+    aliases:
+    - Coppee, Francois
+    - Coppée, Francis Edouard Joachim
+    - François Coppée
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Coppée
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Copp%C3%A9e
+creator:
+  author:
+    agent_name: Tournebize, François
+    aliases:
+    - Tournebize, Francois
+    - Tournebize, F. (François)
+    - Tournebize, Fr. (François)
+    - Tournebize, Henri-François
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '57627'
+    url: http://www.gutenberg.org/2009/agents/57627
+description: ''
+gutenberg_issued: '2024-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74749'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k91482b
+pgterms:marc905: 20241112120730tournebize
+pgterms:marc906: '1899'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bBloud et Barral, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faith'
+- !lcc 'BT'
+- GITenberg
+title: Du doute à la foi
+url: http://www.gutenberg.org/ebooks/74749
