@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/François_Coppée
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Copp%C3%A9e
+covers:
+- cover_type: archival
+  image_path: 74749-h/images/cover.jpg
 creator:
   author:
     agent_name: Tournebize, François
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '57627'
     url: http://www.gutenberg.org/2009/agents/57627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74749#Du-doute-a-la-foi
 gutenberg_issued: '2024-11-16'
 gutenberg_type: Text
 identifiers:
